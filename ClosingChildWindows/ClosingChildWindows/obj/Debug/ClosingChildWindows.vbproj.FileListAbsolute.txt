@@ -1,0 +1,9 @@
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\bin\ClosingChildWindows.dll
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\bin\ClosingChildWindows.pdb
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\bin\ClosingChildWindows.xml
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\obj\Debug\ResolveAssemblyReference.cache
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\obj\Debug\ClosingChildWindows.Resources.resources
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\obj\Debug\ClosingChildWindows.vbproj.GenerateResource.Cache
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\obj\Debug\ClosingChildWindows.dll
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\obj\Debug\ClosingChildWindows.xml
+D:\sandbox\ClosingChildWindows\ClosingChildWindows\obj\Debug\ClosingChildWindows.pdb
