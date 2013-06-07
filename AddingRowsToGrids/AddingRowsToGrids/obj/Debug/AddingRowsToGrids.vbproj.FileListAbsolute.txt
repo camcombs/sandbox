@@ -1,0 +1,9 @@
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\obj\Debug\ResolveAssemblyReference.cache
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\obj\Debug\AddingRowsToGrids.Resources.resources
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\obj\Debug\AddingRowsToGrids.vbproj.GenerateResource.Cache
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\bin\AddingRowsToGrids.dll
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\bin\AddingRowsToGrids.pdb
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\bin\AddingRowsToGrids.xml
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\obj\Debug\AddingRowsToGrids.dll
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\obj\Debug\AddingRowsToGrids.xml
+D:\sandbox\AddingRowsToGrids\AddingRowsToGrids\obj\Debug\AddingRowsToGrids.pdb
