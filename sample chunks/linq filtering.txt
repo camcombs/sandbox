@@ -1,0 +1,7 @@
+'VB.NET
+
+Dim filteredResult = From a In outputColl.AsEnumerable Where a.CreateDate.ToShortDateString > fromDate.AddDays(-1) _
+      And a.CreateDate.ToShortDateString < toDate.AddDays(1) _
+      And IIf(txtApproveUserId.Text.Length > 0, a.ApproveUserId IsNot Nothing AndAlso a.ApproveUserId.ToUpper.Trim = txtApproveUserId.Text.ToUpper, True) _
+      And a.DocMgmtRequestItemList(0).RequestItemDocumentProgramCode = ddlMgmtProgramArea.SelectedValue _
+      Select a

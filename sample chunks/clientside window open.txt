@@ -1,0 +1,11 @@
+
+
+<script type="text/javascript">
+    var childWindow = null;
+
+    function openViewer(url, screenName) {
+        var myWindow = window.open(url, screenName, 'location=no,status=no,scrollbars=no,menubar=no,toolbar=no,directories=no,resizable=yes');
+        childWindow = myWindow;
+
+    }
+</script>

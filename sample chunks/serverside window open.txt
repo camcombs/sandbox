@@ -1,0 +1,4 @@
+
+VB.NET
+
+ClientScript.RegisterStartupScript(Page.GetType(), "DMReindex", "window.open('../Dialogs/Reindex.aspx?Action=Manage&Manip=Reindex','','width=850px,height=600px,scrollbars=yes,resizable=yes,menubar=no');", True)
