@@ -1,0 +1,9 @@
+D:\sandbox\JSONPlay\JSONPlay\bin\JSONPlay.dll
+D:\sandbox\JSONPlay\JSONPlay\bin\JSONPlay.pdb
+D:\sandbox\JSONPlay\JSONPlay\bin\JSONPlay.xml
+D:\sandbox\JSONPlay\JSONPlay\obj\Release\ResolveAssemblyReference.cache
+D:\sandbox\JSONPlay\JSONPlay\obj\Release\JSONPlay.Resources.resources
+D:\sandbox\JSONPlay\JSONPlay\obj\Release\JSONPlay.vbproj.GenerateResource.Cache
+D:\sandbox\JSONPlay\JSONPlay\obj\Release\JSONPlay.dll
+D:\sandbox\JSONPlay\JSONPlay\obj\Release\JSONPlay.xml
+D:\sandbox\JSONPlay\JSONPlay\obj\Release\JSONPlay.pdb
