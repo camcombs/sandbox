@@ -1,12 +1,3 @@
-<Query Kind="VBStatements">
-  <Connection>
-    <ID>cdd7f322-e02f-4c09-bedb-43707802a980</ID>
-    <Persist>true</Persist>
-    <Server>lniddbtumori21</Server>
-    <Database>ENTERPRISE_IDM</Database>
-  </Connection>
-</Query>
-
 ' collection of linq for joins, grouping, etc
 
 ' Group Join, 3 way join
